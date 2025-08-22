@@ -36,7 +36,9 @@ html {
 body {
   background: var(--color-white);
   color: var(--color-black);
-  font: 300 1.25rem/1.75rem "Nunito", sans-serif;
+  /* font: 300 1.25rem/1.75rem "Nunito", sans-serif; */
+  font: normal 1.25rem/1.75rem "Mona Sans", sans-serif;
+  font-feature-settings: "ss03", "ss07";
   margin: 0 auto 1rem auto;
   text-align: center;
   font-synthesis: none;

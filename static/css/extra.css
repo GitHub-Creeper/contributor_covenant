@@ -1,0 +1,7 @@
+ol h3, ul h3 {
+    display: inline-block;
+}
+
+.version ol ul {
+    margin-left: 1.5em;
+}
