@@ -5,3 +5,7 @@ ol h3, ul h3 {
 .version ol ul {
     margin-left: 1.5em;
 }
+
+#enforcement-responsibilities-of-community-moderators {
+    max-width: unset;
+}
